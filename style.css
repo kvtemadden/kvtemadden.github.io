@@ -1,0 +1,44 @@
+#header {
+    background: #082432;
+    text-align: center; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0;
+    height: 80px;
+    box-sizing: border-box;
+    padding: 20px
+}
+
+body {
+    font-family: "Mr Eaves Mod OT", Arial, Helvetica, sans-serif;
+    margin-left: 20%;
+    max-width: 60%;
+}
+
+h1 {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 0.08rem;
+    font-family: "Minion Variable Concept", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    margin-bottom: 8rem;
+}
+
+p {
+    position: absolute;
+    margin: 0;
+    margin-bottom: 1rem;
+    max-width: 60%;
+}
+
+h2 {
+    margin-bottom: 1rem !important;
+    margin: 0;
+}
